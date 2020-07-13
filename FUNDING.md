@@ -31,4 +31,4 @@
 
 | paypal | 微信 | 支付宝 |
 |----|-----|-----|
-|[![](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)](https://paypal.me/colobu)|![](wechat.png)|![](alipay.png)|
+|[![](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)](https://paypal.me/colobu)|![](wechat.png)|![](alipay.jpg)|

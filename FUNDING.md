@@ -29,3 +29,6 @@
 
 如果这些项目帮助过你，如果您想赞助以便帮助我持续开发这些项目，欢迎你选择下面的一种方式进行赞助，感谢。
 
+| paypal | 微信 | 支付宝 |
+|----|-----|-----|
+|[![](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)](https://paypal.me/colobu)|![](wechat.png)|![](alipay.png)|
